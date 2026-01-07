@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A skeptic who volunteers for a \"harmless\" body swap ritual at a mystic hostel finds herself trapped in the dying body of a terminally ill elderly woman, unable to return to her own healthy form before it expires.",
     "long": ""
   },
   "death_type": "Body Swap",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Be careful what body you wish for."
 }
